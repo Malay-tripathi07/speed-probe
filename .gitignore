@@ -1,0 +1,43 @@
+# === Downloaded Output Folders ===
+downloads_default/
+downloads_default_sequential/
+downloads_default_threaded/
+*_sequential/
+*_threaded/
+
+# === Python Cache ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# === Virtual Environments ===
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# === Distribution / Build ===
+dist/
+build/
+*.egg-info/
+*.egg
+
+# === IDE / Editor ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === OS Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+
+# === Secrets / Configs ===
+.env
+*.secret
