@@ -56,7 +56,7 @@ You will be prompted to:
 
 ```
   ==================================================
-          🚀 STARTING DOWNLOAD BENCHMARK
+           ⚡ SpeedProbe — Download Benchmark
   ==================================================
 
 Enter the path of URL file: urls.txt
